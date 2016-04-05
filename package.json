@@ -1,7 +1,7 @@
 {
   "name": "aurelia-bootstrap-table",
   "description": "Aurelia bootstrap-table forked from wenzhixin/bootstrap-table.",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "main": "dist/bootstrap-table",
   "jspm": {
     "main": "dist/bootstrap-table",
